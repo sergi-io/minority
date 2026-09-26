@@ -2,6 +2,12 @@
 
 A native menu bar app for recording your own one-hand or two-hand gestures and assigning actions to them. Gesture Manager shows a live 21-joint skeleton for each detected hand, in different colors, plus per-finger extension readouts. The preview starts horizontally inverted from the previous version; use **Mirror video horizontally** in Gesture Manager to switch its orientation.
 
+## Demo
+
+<video src="docs/demo-minority.webm" controls preload="metadata" width="100%"></video>
+
+[Watch the demo video](docs/demo-minority.webm)
+
 ## Build and launch
 
 ```sh
